@@ -1,6 +1,7 @@
 package com.javatpoint.bean;
 
 public class Baby {
+	//id
 int id;
 String name,meaning,sex,religion;
 public int getId() {
